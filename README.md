@@ -1,0 +1,1 @@
+This is a simple search page powered by Azure services & API. This is intended to play around.
